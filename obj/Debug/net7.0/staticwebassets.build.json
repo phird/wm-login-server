@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PnaLs8HY320JAXQsayFxfe9AbTuvpJeyhQtaM+mdlTw=",
+  "Source": "wm-api",
+  "BasePath": "_content/wm-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
